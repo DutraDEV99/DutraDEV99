@@ -9,8 +9,8 @@ Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento
 ### 🎓 Formação e cursos
 
 - **Gestão da Tecnologia da Informação** — Ensino superior em andamento
-- **Harvard CS50x** — Introduction to Computer Science (concluído)
-- **Harvard CS50 AI** — Introduction to Artificial Intelligence with Python (concluído)
+- **Harvard CS50x** — Introduction to Computer Science.
+- **Harvard CS50 AI** — Introduction to Artificial Intelligence with Python.
 - Cursos complementares em tecnologia e programação
 
 ### 🛠️ Conhecimentos técnicos

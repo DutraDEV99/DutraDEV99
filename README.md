@@ -15,7 +15,7 @@ Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento
 
 ### 🛠️ Conhecimentos técnicos
 
-- **Hardware:** montagem, diagnóstico, manutenção e suporte técnico
+- **Hardware:** montagem, diagnóstico, manutenção eletronica e suporte técnico
 - **Programação:** Python, C, SQL e JavaScript — conhecimentos em desenvolvimento
 - **Desenvolvimento Web:** Django, HTML e CSS
 - **Banco de dados:** MySQL

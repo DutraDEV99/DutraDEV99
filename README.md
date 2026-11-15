@@ -1,29 +1,52 @@
-# Eu sou Wendel Dutra! 👋
+# Wendel Dutra
 
-### 👨‍💻 Sobre mim
+**Python e Django · Em busca de estágio ou oportunidade júnior em desenvolvimento**
 
-Sou estudante de **Gestão da Tecnologia da Informação**, com mais de **9 anos de experiência prática em hardware**, manutenção de computadores e suporte técnico.
+Sou estudante de **Gestão da Tecnologia da Informação** e estou em transição para o desenvolvimento de software. Trago mais de **9 anos de experiência prática em hardware, manutenção de computadores e suporte técnico**, com foco em diagnóstico e resolução de problemas.
 
-Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento de software e inteligência artificial, buscando minha primeira oportunidade profissional na área de desenvolvimento.
+Meu foco atual é desenvolvimento web com Python e Django. Neste perfil, apresento projetos com código, documentação e testes para demonstrar o que estou construindo e aprendendo.
 
-### 🎓 Formação e cursos
+## Projeto em destaque
 
-- **Gestão da Tecnologia da Informação** — Ensino superior em andamento
-- **Harvard CS50x** — Introduction to Computer Science.
-- **Harvard CS50 AI** — Introduction to Artificial Intelligence with Python.
-- Cursos complementares em tecnologia e programação
+### [Case-estoque — sistema de gestão de estoque](https://github.com/DutraDEV99/case-estoque-keener)
 
-### 🛠️ Conhecimentos técnicos
+Aplicação web para cadastrar produtos, registrar entradas e saídas e acompanhar o histórico de movimentações por usuário.
 
-- **Hardware:** montagem, diagnóstico, manutenção eletronica e suporte técnico
-- **Programação:** Python, C, SQL e JavaScript — conhecimentos em desenvolvimento
-- **Desenvolvimento Web:** Django, HTML e CSS
-- **Banco de dados:** MySQL
-- **Inteligência Artificial:** fundamentos e aplicações com Python
-- **Ferramentas:** Git, GitHub e VS Code
+![Painel do Case-estoque com dados fictícios](assets/case-estoque.png)
 
-### 🚀 Objetivos profissionais
+**O que o projeto demonstra:**
 
-Estou em transição para o desenvolvimento de software, com interesse especial em IA.
+- Autenticação com Django Auth e formulários protegidos por CSRF.
+- Validação de estoque insuficiente e bloqueio de movimentações em produtos desativados.
+- Gravação de saldo e histórico na mesma transação, com rollback em caso de falha.
+- Paginação, busca no histórico e administração com movimentações somente para consulta.
+- **18 testes automatizados**, com execução configurada no GitHub Actions.
+- Instalação local com SQLite e configuração para PostgreSQL em produção.
 
-Busco oportunidades de estágio ou posições iniciais em tecnologia, onde possa contribuir com minha experiência técnica e continuar evoluindo profissionalmente.
+**Tecnologias:** Python, Django, SQLite, PostgreSQL, HTML, CSS, JavaScript e GitHub Actions.
+
+[![Testes Django](https://github.com/DutraDEV99/case-estoque-keener/actions/workflows/django.yml/badge.svg)](https://github.com/DutraDEV99/case-estoque-keener/actions/workflows/django.yml)
+
+[Consultar código e instruções de execução](https://github.com/DutraDEV99/case-estoque-keener#readme) · [Ver testes automatizados](https://github.com/DutraDEV99/case-estoque-keener/actions)
+
+## Conhecimentos
+
+| Área | Conhecimentos e aplicação |
+| --- | --- |
+| Desenvolvimento web | Python, Django, HTML, CSS e JavaScript; aplicação prática no Case-estoque |
+| Dados | SQL, SQLite e MySQL; configuração de PostgreSQL no projeto |
+| Qualidade e ferramentas | Testes com Django, Git, GitHub, GitHub Actions e VS Code |
+| Fundamentos | C, fundamentos de ciência da computação e inteligência artificial com Python |
+| Experiência técnica | Montagem, diagnóstico, manutenção eletrônica de computadores e suporte técnico |
+
+## Formação
+
+- **Gestão da Tecnologia da Informação** — ensino superior em andamento.
+- **CS50x — Introduction to Computer Science, Harvard** — concluído com certificado.
+- **CS50 AI — Introduction to Artificial Intelligence with Python, Harvard** — concluído com certificado.
+
+## Objetivo profissional
+
+Busco uma oportunidade de **estágio ou nível júnior com Python/Django**, para contribuir com resolução de problemas, desenvolver aplicações e evoluir em revisão de código, testes e trabalho em equipe.
+
+Rio de Janeiro, Brasil.

@@ -50,3 +50,5 @@ Aplicação web para cadastrar produtos, registrar entradas e saídas e acompanh
 Busco uma oportunidade de **estágio ou nível júnior com Python/Django**, para contribuir com resolução de problemas, desenvolver aplicações e evoluir em revisão de código, testes e trabalho em equipe.
 
 Rio de Janeiro, Brasil.
+
+[LinkedIn — Wendel Dutra](https://www.linkedin.com/in/wendel-dutra-5258863a9/) · [GitHub — DutraDEV99](https://github.com/DutraDEV99)

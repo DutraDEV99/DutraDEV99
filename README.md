@@ -2,7 +2,7 @@
 
 **Python e Django · Em busca de estágio ou oportunidade júnior em desenvolvimento**
 
-Sou estudante de **Gestão da Tecnologia da Informação na Estácio (2026–2028, conclusão prevista)** e estou em transição para o desenvolvimento de software. Atuo desde **2017** com hardware, manutenção de computadores e suporte técnico em negócio próprio. Após encerrar a loja física, continuo realizando atendimentos enquanto priorizo os estudos e a transição para desenvolvimento.
+Sou estudante de **Gestão da Tecnologia da Informação na Estácio (2026–2028, conclusão prevista)** e estou em transição para o desenvolvimento de software. Atuo desde **2017** com hardware, manutenção de computadores e suporte técnico em negócio próprio, a [Cyber Computadores](https://www.instagram.com/cyber_computadores/). Após encerrar a loja física, continuo realizando atendimentos enquanto priorizo os estudos e a transição para desenvolvimento.
 
 Meu foco atual é desenvolvimento web com Python e Django. Neste perfil, apresento projetos com código, documentação e testes para demonstrar o que estou construindo e aprendendo.
 

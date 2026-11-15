@@ -6,7 +6,25 @@ Sou estudante de **Gestão da Tecnologia da Informação na Estácio (2026–202
 
 Tenho aplicação prática de Python e Django no desenvolvimento web e abertura para aprender novas linguagens, ferramentas e áreas de atuação. Neste perfil, apresento projetos com código, documentação e testes para demonstrar o que estou construindo e aprendendo.
 
-## Projeto em destaque
+## Projetos em destaque
+
+### [DutraDEV — dashboard de análise de receita](https://github.com/DutraDEV99/dutradev-dashboard)
+
+Dashboard interativo para explorar vendas, clientes e desempenho de um negócio, com demonstração pública que pode ser acessada sem cadastro.
+
+**O que o projeto demonstra:**
+
+- Quatro telas responsivas: visão geral, transações, clientes e insights.
+- Indicadores calculados a partir das transações, com comparação entre períodos de 7, 30 e 90 dias.
+- Gráficos SVG, busca, filtro de status, paginação e exportação CSV.
+- Cadastro de transações fictícias com persistência no navegador e atualização dos indicadores.
+- Escape de conteúdo digitado e testes de comportamento executados no GitHub Actions.
+
+**Tecnologias:** HTML, CSS, JavaScript, SVG, Node.js para testes e GitHub Pages.
+
+[**Experimentar o dashboard →**](https://dutradev99.github.io/dutradev-dashboard/) · [Ver código e decisões técnicas](https://github.com/DutraDEV99/dutradev-dashboard#readme)
+
+Os dados da demonstração são fictícios. Projeto independente do sistema de estoque abaixo.
 
 ### [Case-estoque — sistema de gestão de estoque](https://github.com/DutraDEV99/case-estoque-keener)
 

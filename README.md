@@ -2,7 +2,7 @@
 
 **Python e Django · Em busca de estágio ou oportunidade júnior em desenvolvimento**
 
-Sou estudante de **Gestão da Tecnologia da Informação** e estou em transição para o desenvolvimento de software. Trago mais de **9 anos de experiência prática em hardware, manutenção de computadores e suporte técnico**, com foco em diagnóstico e resolução de problemas.
+Sou estudante de **Gestão da Tecnologia da Informação na Estácio**, com conclusão prevista para **2028**, e estou em transição para o desenvolvimento de software. Tenho **9 anos de experiência com loja própria na área de hardware, manutenção de computadores e suporte técnico**, com foco em diagnóstico e resolução de problemas.
 
 Meu foco atual é desenvolvimento web com Python e Django. Neste perfil, apresento projetos com código, documentação e testes para demonstrar o que estou construindo e aprendendo.
 
@@ -41,7 +41,7 @@ Aplicação web para cadastrar produtos, registrar entradas e saídas e acompanh
 
 ## Formação
 
-- **Gestão da Tecnologia da Informação** — ensino superior em andamento.
+- **Gestão da Tecnologia da Informação — Estácio** — em andamento, com conclusão prevista para **2028**.
 - **CS50x — Introduction to Computer Science, Harvard** — concluído com certificado.
 - **CS50 AI — Introduction to Artificial Intelligence with Python, Harvard** — concluído com certificado.
 

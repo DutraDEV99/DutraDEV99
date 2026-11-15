@@ -1,10 +1,10 @@
 # Wendel Dutra
 
-**Python e Django · Em busca de estágio ou oportunidade júnior em desenvolvimento**
+**Desenvolvimento de Software · Em busca de estágio ou primeira oportunidade como desenvolvedor**
 
 Sou estudante de **Gestão da Tecnologia da Informação na Estácio (2026–2028, conclusão prevista)** e estou em transição para o desenvolvimento de software. Atuo desde **2017** com hardware, manutenção de computadores e suporte técnico em negócio próprio, a [Cyber Computadores](https://www.instagram.com/cyber_computadores/). Após encerrar a loja física, continuo realizando atendimentos enquanto priorizo os estudos e a transição para desenvolvimento.
 
-Meu foco atual é desenvolvimento web com Python e Django. Neste perfil, apresento projetos com código, documentação e testes para demonstrar o que estou construindo e aprendendo.
+Tenho aplicação prática de Python e Django no desenvolvimento web e abertura para aprender novas linguagens, ferramentas e áreas de atuação. Neste perfil, apresento projetos com código, documentação e testes para demonstrar o que estou construindo e aprendendo.
 
 ## Projeto em destaque
 
@@ -47,7 +47,7 @@ Aplicação web para cadastrar produtos, registrar entradas e saídas e acompanh
 
 ## Objetivo profissional
 
-Busco uma oportunidade de **estágio ou nível júnior com Python/Django**, para contribuir com resolução de problemas, desenvolver aplicações e evoluir em revisão de código, testes e trabalho em equipe.
+Busco minha **primeira oportunidade em desenvolvimento de software, em estágio ou posição júnior**. Tenho abertura para aprender novas linguagens, ferramentas e áreas de atuação, contribuindo com minha experiência em resolução de problemas e suporte técnico e evoluindo em desenvolvimento, testes e trabalho em equipe.
 
 Rio de Janeiro, Brasil.
 
